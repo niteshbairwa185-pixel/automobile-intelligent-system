@@ -1,1 +1,1 @@
-POKEMON IN HINDI 
+data analysis have done somthing 
