@@ -1,1 +1,1 @@
-data analysis have done somthing 
+data analysis has done somthing 
