@@ -20,6 +20,13 @@ The goal of this project is to build a complete **Automobile Intelligence System
 Each question will be handled through an independent module rather than a single model.
 
 ---
+---
+## Data Sources
+- `cars.csv` — US used-car listings (https://www.kaggle.com/datasets/andreinovikov/used-cars-dataset/data)
+- `cars_descriptions_with_details.csv` — Edmunds expert reviews, scraped (https://www.kaggle.com/datasets/ademboukhris/expert-car-reviews-dataset/data)
+Place both in `data/raw/` before running the notebooks.
+
+---
 
 ## 🧩 Project Modules
 
