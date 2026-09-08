@@ -13,3 +13,5 @@ env/
 
 # Large/raw datasets
 data/raw/
+data/processed/
+
